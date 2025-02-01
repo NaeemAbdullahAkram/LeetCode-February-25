@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 | [3429-special-array-i](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0203-remove-linked-list-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
