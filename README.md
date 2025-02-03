@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0232-implement-queue-using-stacks) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
