@@ -38,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
