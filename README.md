@@ -57,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
