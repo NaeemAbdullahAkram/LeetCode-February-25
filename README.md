@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0326-power-of-three) |
 ## Sliding Window
 |  |
 | ------- |
