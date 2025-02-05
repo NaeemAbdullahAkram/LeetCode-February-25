@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0292-nim-game) |
 ## String
 |  |
 | ------- |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
