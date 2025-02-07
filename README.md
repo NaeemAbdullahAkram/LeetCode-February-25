@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
 | [1364-tuple-with-same-product](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1364-tuple-with-same-product) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0242-valid-anagram) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,8 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0099-recover-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Simulation
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
