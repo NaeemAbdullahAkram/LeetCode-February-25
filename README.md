@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0242-valid-anagram) |
 | [1364-tuple-with-same-product](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2434-design-a-number-container-system) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
+| [2434-design-a-number-container-system](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
