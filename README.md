@@ -129,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0099-recover-binary-search-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
 ## Greedy
 |  |
 | ------- |
