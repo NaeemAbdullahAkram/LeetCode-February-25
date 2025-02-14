@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0326-power-of-three) |
+| [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
 | [1364-tuple-with-same-product](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2448-count-number-of-bad-pairs) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
 ## Brainteaser
 |  |
 | ------- |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0164-maximum-gap) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
