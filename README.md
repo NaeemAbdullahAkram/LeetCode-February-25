@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0342-power-of-four) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0389-find-the-difference) |
 ## Bucket Sort
 |  |
