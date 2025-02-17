@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0164-maximum-gap) |
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
 | [1364-tuple-with-same-product](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
 | ------- |
