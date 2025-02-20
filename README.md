@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0326-power-of-three) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0164-maximum-gap) |
+| [0204-count-primes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
@@ -237,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0338-counting-bits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
