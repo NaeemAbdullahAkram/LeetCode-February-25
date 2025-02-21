@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0389-find-the-difference) |
 | [1160-letter-tile-possibilities](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2434-design-a-number-container-system) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2434-design-a-number-container-system) |
 ## Queue
@@ -153,12 +155,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0279-perfect-squares) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Greedy
 |  |
 | ------- |
