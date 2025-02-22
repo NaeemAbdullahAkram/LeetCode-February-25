@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0279-perfect-squares) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0283-move-zeroes) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0283-move-zeroes) |
 ## Linked List
