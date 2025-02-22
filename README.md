@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0389-find-the-difference) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Simulation
 |  |
