@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0099-recover-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
+| [0922-possible-bipartition](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0922-possible-bipartition) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0279-perfect-squares) |
+| [0922-possible-bipartition](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0922-possible-bipartition) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Greedy
 |  |
@@ -270,4 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0204-count-primes) |
+## Union Find
+|  |
+| ------- |
+| [0922-possible-bipartition](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0922-possible-bipartition) |
+## Graph
+|  |
+| ------- |
+| [0922-possible-bipartition](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0922-possible-bipartition) |
 <!---LeetCode Topics End-->
