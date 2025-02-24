@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/3429-special-array-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0922-possible-bipartition) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0279-perfect-squares) |
 | [0922-possible-bipartition](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0922-possible-bipartition) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -280,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-possible-bipartition](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0922-possible-bipartition) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
