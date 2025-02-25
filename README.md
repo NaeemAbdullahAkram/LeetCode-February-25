@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0926-find-and-replace-pattern) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0300-longest-increasing-subsequence) |
 ## Interactive
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0343-integer-break) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
