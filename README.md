@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0343-integer-break) |
 | [0390-elimination-game](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0390-elimination-game) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0926-find-and-replace-pattern) |
 | [1364-tuple-with-same-product](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Brainteaser
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0343-integer-break) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Enumeration
 |  |
 | ------- |
