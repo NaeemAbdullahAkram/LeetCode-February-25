@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0389-find-the-difference) |
 | [0926-find-and-replace-pattern](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0926-find-and-replace-pattern) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0389-find-the-difference) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0926-find-and-replace-pattern) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0299-bulls-and-cows) |
 | [1160-letter-tile-possibilities](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
