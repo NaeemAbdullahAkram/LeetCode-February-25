@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
+| [0393-utf-8-validation](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0393-utf-8-validation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0926-find-and-replace-pattern) |
 | [1364-tuple-with-same-product](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1364-tuple-with-same-product) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0393-utf-8-validation) |
 ## Bucket Sort
 |  |
 | ------- |
