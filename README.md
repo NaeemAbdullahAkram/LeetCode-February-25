@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0284-peeking-iterator) |
 | [0300-longest-increasing-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
 | [0393-utf-8-validation](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0393-utf-8-validation) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0284-peeking-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/1477-product-of-the-last-k-numbers) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0922-possible-bipartition](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0922-possible-bipartition) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/2564-most-profitable-path-in-a-tree) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/NaeemAbdullahAkram/LeetCode-February-25/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
